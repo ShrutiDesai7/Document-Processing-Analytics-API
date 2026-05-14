@@ -23,7 +23,14 @@ app/
   utils/       # shared helpers
   main.py      # FastAPI entrypoint
 ```
+## Screenshots 
+---
+<img width="1710" height="648" alt="image" src="https://github.com/user-attachments/assets/a9188c61-2f5b-45d2-997a-7e92528ac108" />
 
+---
+<img width="925" height="532" alt="image" src="https://github.com/user-attachments/assets/62ab620d-ca75-4796-a5f1-44f2e8af7788" />
+
+---
 ## Setup
 
 1) Create and activate a virtual environment
