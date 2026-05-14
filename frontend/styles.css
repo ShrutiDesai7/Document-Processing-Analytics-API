@@ -1,0 +1,15 @@
+.preview-box {
+  background: #0b1020;
+  color: #e8eefc;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  min-height: 220px;
+  max-height: 360px;
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
+.metric-card {
+  background: #fff;
+}
+
